@@ -1,6 +1,6 @@
 # Titles
 
-Quand nous commençons à écrire une document markdown, nous avons besoin d'ajouter un titre et des sous-titres.
+Quand nous commençons à écrire un document markdown, nous avons besoin d'ajouter un titre et des sous-titres.
 
 Markdown supporte deux styles d'entête, Setext et atx.
 
@@ -64,5 +64,3 @@ test
 > Only '=' and '-' are accepted for underlining an header.
 
 ---
-
-
